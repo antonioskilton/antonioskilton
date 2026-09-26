@@ -19,4 +19,3 @@ Long Form is a live beta for deliberate reading. Readers choose their publicatio
 - **[Strategy Factory](https://github.com/phinneywood/strategy-factory)** — an experimental ChatGPT Work skills workflow for developing ideas through evidence, validation, and decision-making.
 - **[Personal site](https://github.com/phinneywood/personal-site)** — the Astro source for my concise portfolio.
 
-The earlier [RSS-to-Kindle pipeline](https://github.com/antonioskilton/rss-to-kindle) records the project's starting point and includes a supporting feed utility. My [MLOps Zoomcamp fork](https://github.com/antonioskilton/mlops-zoomcamp) is educational material from DataTalks.Club.
